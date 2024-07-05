@@ -1,1 +1,202 @@
-
+Specie Normal Name	Specie	Sample
+Chickpea	Cicer arietinum	CA-1
+Chickpea	Cicer arietinum	CaV2
+Chickpea	Cicer arietinum	GE-1
+Chickpea	Cicer arietinum	ICC1180
+Chickpea	Cicer arietinum	ICC13124
+Chickpea	Cicer arietinum	ICC16374
+Chickpea	Cicer arietinum	ICC16903
+Chickpea	Cicer arietinum	ICC1715
+Chickpea	Cicer arietinum	ICC2277
+Chickpea	Cicer arietinum	ICC2969
+Chickpea	Cicer arietinum	ICC3325
+Chickpea	Cicer arietinum	ICC456
+Chickpea	Cicer arietinum	ICC4593
+Chickpea	Cicer arietinum	ICC4841
+Chickpea	Cicer arietinum	ICC4958
+Chickpea	Cicer arietinum	ICC5504
+Chickpea	Cicer arietinum	ICC5878
+Chickpea	Cicer arietinum	ICC6811
+Chickpea	Cicer arietinum	ICC6874
+Chickpea	Cicer arietinum	ICC7272
+Chickpea	Cicer arietinum	ICC7351
+Chickpea	Cicer arietinum	ICC7668
+Chickpea	Cicer arietinum	ICC8621
+Chickpea	Cicer arietinum	ICC867
+Chickpea	Cicer arietinum	NE-1
+Chickpea	Cicer arietinum	SL-1
+Chickpea	Cicer arietinum	ST-1
+Maize	Zea mays	Zm-B73
+Maize	Zea mays	Zm-B97
+Maize	Zea mays	Zm-CML103
+Maize	Zea mays	Zm-CML228
+Maize	Zea mays	Zm-CML247
+Maize	Zea mays	Zm-CML277
+Maize	Zea mays	Zm-CML322
+Maize	Zea mays	Zm-CML333
+Maize	Zea mays	Zm-CML52
+Maize	Zea mays	Zm-CML69
+Maize	Zea mays	Zm-HP301
+Maize	Zea mays	Zm-Il14H
+Maize	Zea mays	Zm-Ki11
+Maize	Zea mays	Zm-Ki3
+Maize	Zea mays	Zm-Ky21
+Maize	Zea mays	Zm-M162W
+Maize	Zea mays	Zm-M37W
+Maize	Zea mays	Zm-Mo18W
+Maize	Zea mays	Zm-Ms71
+Maize	Zea mays	Zm-NC350
+Maize	Zea mays	Zm-NC358
+Maize	Zea mays	Zm-Oh43
+Maize	Zea mays	Zm-Oh7b
+Maize	Zea mays	Zm-P39
+Maize	Zea mays	Zm-Tx303
+Maize	Zea mays	Zm-Tzi8
+Rice	Oryza sativa	02428
+Rice	Oryza sativa	9311
+Rice	Oryza sativa	Basmati1
+Rice	Oryza glaberrima	CG14
+Rice	Oryza sativa	CN1
+Rice	Oryza sativa	D62
+Rice	Oryza sativa	DG
+Rice	Oryza sativa	DHX2
+Rice	Oryza sativa	FH838
+Rice	Oryza sativa	FS32
+Rice	Oryza sativa	G46
+Rice	Oryza sativa	G630
+Rice	Oryza sativa	G8
+Rice	Oryza sativa	II32
+Rice	Oryza sativa	IR64
+Rice	Oryza sativa	J4155
+Rice	Oryza sativa	Kosh
+Rice	Oryza sativa	KY131
+Rice	Oryza sativa	Lemont
+Rice	Oryza sativa	LJ
+Rice	Oryza sativa	MSU7
+Rice	Oryza sativa	N22
+Rice	Oryza sativa	NamRoo
+Rice	Oryza sativa	R498
+Rice	Oryza sativa	R527
+Rice	Oryza sativa	S548
+Rice	Oryza sativa	TM
+Rice	Oryza sativa	Tumba
+Rice	Oryza sativa	WSSM
+Rice	Oryza sativa	Y3551
+Rice	Oryza sativa	Y58S
+Rice	Oryza sativa	YX1
+Rice	Oryza sativa	ZH11
+Tomato	Solanum pimpinellifolium	BGV006775
+Tomato	Solanum lycopersicum var. cerasiforme	BGV006865
+Tomato	Solanum lycopersicum var. cerasiforme	BGV007931
+Tomato	Solanum lycopersicum var. cerasiforme	BGV007989
+Tomato	Solanum lycopersicum	EA00990
+Tomato	Solanum lycopersicum	Fla8924
+Tomato	Solanum pimpinellifolium	LA2093
+Tomato	Solanum pimpinellifolium	PAS014479
+Tomato	Solanum lycopersicum	SL5.0
+Tomato	Solanum lycopersicum	TS117
+Tomato	Solanum lycopersicum var. cerasiforme	TS118
+Tomato	Solanum pimpinellifolium	TS156
+Tomato	Solanum pimpinellifolium	TS15
+Tomato	Solanum lycopersicum	TS166
+Tomato	Solanum lycopersicum	TS171
+Tomato	Solanum pimpinellifolium	TS222
+Tomato	Solanum lycopersicum var. cerasiforme	TS238
+Tomato	Solanum pimpinellifolium	TS265
+Tomato	Solanum lycopersicum	TS331
+Tomato	Solanum lycopersicum var. cerasiforme	TS39
+Tomato	Solanum lycopersicum	TS3
+Tomato	Solanum pimpinellifolium	TS413
+Tomato	Solanum pimpinellifolium	TS421
+Tomato	Solanum lycopersicum var. cerasiforme	TS545
+Tomato	Solanum lycopersicum var. cerasiforme	TS623
+Tomato	Solanum lycopersicum	TS80
+Tomato	Solanum lycopersicum var. cerasiforme	TS96
+Soybean	Glycine max	BRS537
+Soybean	Glycine max	DND252
+Soybean	Glycine max	Gma
+Soybean	Glycine max	GmJY
+Soybean	Glycine max	GmWF7
+Soybean	Glycine max	Hwangkeum
+Soybean	Glycine max	NJAU
+Soybean	Glycine max	SoyC01_asm
+Soybean	Glycine max	SoyC02_asm
+Soybean	Glycine max	SoyC03_asm
+Soybean	Glycine max	SoyC04_asm
+Soybean	Glycine max	SoyC05_asm
+Soybean	Glycine max	SoyC06_asm
+Soybean	Glycine max	SoyC07_asm
+Soybean	Glycine max	SoyC08_asm
+Soybean	Glycine max	SoyC09_asm
+Soybean	Glycine max	SoyC10_asm
+Soybean	Glycine max	SoyC11_asm
+Soybean	Glycine max	SoyC12_asm
+Soybean	Glycine max	SoyC13_asm
+Soybean	Glycine max	SoyC14_asm
+Soybean	Glycine max	SoyL01_asm
+Soybean	Glycine max	SoyL02_asm
+Soybean	Glycine max	SoyL03_asm
+Soybean	Glycine max	SoyL04_asm
+Soybean	Glycine max	SoyL05_asm
+Soybean	Glycine max	SoyL06_asm
+Soybean	Glycine max	SoyL07_asm
+Soybean	Glycine max	SoyL08_asm
+Soybean	Glycine max	SoyL09_asm
+Soybean	Glycine max	SoyW01_asm
+Soybean	Glycine max	SoyW02_asm
+Soybean	Glycine max	SoyW03_asm
+Soybean	Glycine max	Williams82
+Soybean	Glycine max	ZH13
+Field Mustard	Brassica rapa	BRAV3
+Field Mustard	Brassica rapa	BRO
+Field Mustard	Brassica rapa	BRZ1
+Field Mustard	Brassica rapa	CCA
+Field Mustard	Brassica rapa	CCB
+Field Mustard	Brassica rapa	CXA
+Field Mustard	Brassica rapa	CXB
+Field Mustard	Brassica rapa	FPsc
+Field Mustard	Brassica rapa	MIZ
+Field Mustard	Brassica rapa	OIA
+Field Mustard	Brassica rapa	OIB
+Field Mustard	Brassica rapa	OIC
+Field Mustard	Brassica rapa	PCA
+Field Mustard	Brassica rapa	PCB
+Field Mustard	Brassica rapa	SCU
+Field Mustard	Brassica rapa	TCA
+Field Mustard	Brassica rapa	TUA
+Field Mustard	Brassica rapa	TUE
+Field Mustard	Brassica rapa	WLD
+Field Mustard	Brassica rapa	WTC
+Wild Cabbage	Brassica oleracea	07-DH-33
+Wild Cabbage	Brassica oleracea	BobV2
+Wild Cabbage	Brassica oleracea	broccoli
+Wild Cabbage	Brassica oleracea	Cauliflower
+Wild Cabbage	Brassica oleracea	D101
+Wild Cabbage	Brassica oleracea	JZS_v2
+Wild Cabbage	Brassica oleracea (Eriobotrya japonica)	loquat-No1
+Wild Cabbage	Brassica oleracea	M249
+Wild Cabbage	Brassica oleracea	PL021
+Wild Cabbage	Brassica oleracea	T02
+Wild Cabbage	Brassica oleracea	T03
+Wild Cabbage	Brassica oleracea	T04
+Wild Cabbage	Brassica oleracea	T06
+Wild Cabbage	Brassica oleracea	T07
+Wild Cabbage	Brassica oleracea	T08
+Wild Cabbage	Brassica oleracea	T09
+Wild Cabbage	Brassica oleracea	T10
+Wild Cabbage	Brassica oleracea	T11
+Wild Cabbage	Brassica oleracea	T12
+Wild Cabbage	Brassica oleracea	T13
+Wild Cabbage	Brassica oleracea	T14
+Wild Cabbage	Brassica oleracea	T15
+Wild Cabbage	Brassica oleracea	T16
+Wild Cabbage	Brassica oleracea	T17
+Wild Cabbage	Brassica oleracea	T18
+Wild Cabbage	Brassica oleracea	T19
+Wild Cabbage	Brassica oleracea	T21
+Wild Cabbage	Brassica oleracea	T24
+Wild Cabbage	Brassica oleracea	T25
+Wild Cabbage	Brassica oleracea	T26
+Wild Cabbage	Brassica oleracea	T27
+Wild Cabbage	Brassica oleracea	W1700
+Wild Cabbage	Brassica oleracea	W1701
